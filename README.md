@@ -1,4 +1,4 @@
-# Turkish English Translator Installer
+# Lexitren Turkish English Translator Installer
 
 Standalone Windows installer package for **Turkish English Translator**.
 
