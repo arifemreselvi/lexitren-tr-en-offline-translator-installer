@@ -8,7 +8,8 @@ Standalone Windows installer package for **Turkish English Translator**.
 
 ## Quick Download
 
-- Download only the installer executable: `output/TurkishEnglishTranslatorSetup.exe`
+- **[Download Installer EXE (output folder)](https://github.com/arifemreselvi/lexitren-tr-en-offline-translator-installer/raw/main/output/TurkishEnglishTranslatorSetup.exe)**
+- **[Download Installer EXE (Latest Release - Recommended)](https://github.com/arifemreselvi/lexitren-tr-en-offline-translator-installer/releases/latest/download/TurkishEnglishTranslatorSetup.exe)**
 
 ## Creator
 
@@ -23,7 +24,7 @@ Standalone Windows installer package for **Turkish English Translator**.
 
 ## Quick Install
 
-1. Download `output/TurkishEnglishTranslatorSetup.exe`
+1. Download `TurkishEnglishTranslatorSetup.exe` from one of the links above
 2. Run the installer
 3. Complete the setup wizard
 4. Launch **Turkish English Translator** from Start Menu or desktop shortcut
@@ -34,19 +35,3 @@ PowerShell:
 
 ```powershell
 Get-FileHash ".\output\TurkishEnglishTranslatorSetup.exe" -Algorithm SHA256
-```
-
-Compare the result with `CHECKSUMS.txt`.
-
-## Build Installer From Script
-
-Requires Inno Setup 6.
-
-```powershell
-& "C:\Users\<YourUser>\AppData\Local\Programs\Inno Setup 6\ISCC.exe" ".\TurkishEnglishTranslatorInstaller.iss"
-```
-
-## System Requirements
-
-- Windows 10 or Windows 11 (64-bit)
-- Minimum 1 GB free disk space recommended
