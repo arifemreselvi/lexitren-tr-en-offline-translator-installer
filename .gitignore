@@ -1,0 +1,9 @@
+# Inno Setup temporary or machine-specific artifacts
+*.tmp
+*.log
+*.iss.bak
+*.~is
+
+# Keep installer output tracked in this repo
+!output/
+!output/TurkishEnglishTranslatorSetup.exe
