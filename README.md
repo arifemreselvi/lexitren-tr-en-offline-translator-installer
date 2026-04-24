@@ -11,7 +11,7 @@ Standalone Windows installer package for **Turkish English Translator**.
 - **[Download Installer EXE (output folder)](https://github.com/arifemreselvi/lexitren-tr-en-offline-translator-installer/raw/main/output/TurkishEnglishTranslatorSetup.exe)**
 - **[Download Installer EXE (Latest Release - Recommended)](https://github.com/arifemreselvi/lexitren-tr-en-offline-translator-installer/releases/latest/download/TurkishEnglishTranslatorSetup.exe)**
 
-## Creator
+## Developer
 
 - **Arif Emre Selvi**
 - 2nd year MIS (Management Information Systems) student
